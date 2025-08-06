@@ -95,3 +95,17 @@ If you're building something similar and want to connect:
 ---
 
 > 💡 MORE BLOGS AT: [v0-dhruv-lakhe-portfolio.vercel.app/blog](https://v0-dhruv-lakhe-portfolio.vercel.app/blog)
+
+
+
+## 🤖 COMING SOON: AI REPORTING AGENT
+
+The next version of this ERP system will include an AI-powered agent built using **LangChain** and **SQL agents**. Users will be able to chat directly with the database using natural language and instantly generate custom reports like:
+
+- “Show quotations created last week”
+- “Lead conversion rate by month”
+- “Top clients by margin this quarter”
+
+This feature will eliminate manual reporting and bring **natural language querying** to internal operations.
+
+🔗 Blog and demo coming soon: [View AI Agent Update](#)
