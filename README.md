@@ -76,10 +76,16 @@ This repo showcases:
 
 ## 📸 ERP SYSTEM UI PREVIEWS
 
+## 📸 ERP SYSTEM UI PREVIEWS
+
 Below are a few safe screenshots from the internal ERP system (non-sensitive views):
-images/image1.png
-images/image2.png
-images/image3.png
+
+![Screenshot 1](images/image1.png)
+
+![Screenshot 2](images/image2.png)
+
+![Screenshot 3](images/image3.png)
+
 
 If you're building something similar and want to connect:
 
