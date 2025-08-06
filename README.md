@@ -74,6 +74,13 @@ This repo showcases:
 - Clean separation of concerns
 - Scalable model-first design
 
+## 📸 ERP SYSTEM UI PREVIEWS
+
+Below are a few safe screenshots from the internal ERP system (non-sensitive views):
+images/image1.png
+images/image2.png
+images/image3.png
+
 If you're building something similar and want to connect:
 
 📬 EMAIL: [lakhedhruv@outlook.com](mailto:lakhedhruv@outlook.com)  
